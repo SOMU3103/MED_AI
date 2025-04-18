@@ -92,7 +92,7 @@ user_input.place(
 
 
 try:
-    genai.configure(api_key="AIzaSyCaAaW1tKxyM8AUNo482w74SYNyvmb3HmQ")
+    genai.configure(api_key="###############################################")
     
     
     model = None
