@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## *"Bridging the gap between patients and healthcare — one conversation at a time."*
+## *"Bridging the gap between patients and healthcare one conversation at a time."*
 
 </div>
 
