@@ -146,27 +146,8 @@ Approach     : NLP + Rule-based Symptom Matching
 Platform     : Desktop Application
 ```
 
----
-
-## 〔 06 〕 Project Demo
-
-<div align="center">
-
-<br/>
-
-[![▶️ Watch Full Demo](https://img.shields.io/badge/▶️%20Watch_Full_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-&nbsp;&nbsp;&nbsp;
-[![🌐 Live Preview](https://img.shields.io/badge/🌐%20Live_Preview-Coming_Soon-1a1a2e?style=for-the-badge)]()
-
-<br/>
-
-> 🎥 *Complete walkthrough video uploading soon — stay tuned!*
-
-</div>
-
----
-
-## 〔 07 〕 Getting Started
+--
+## 〔 06 〕 Getting Started
 
 **1. Clone the repository**
 ```bash
@@ -186,7 +167,7 @@ python main.py
 
 ---
 
-## 〔 08 〕 Expected Outcomes
+## 〔 07 〕 Expected Outcomes
 
 | Outcome | Impact |
 |---------|--------|
@@ -198,7 +179,7 @@ python main.py
 
 ---
 
-## 〔 09 〕 Social Relevance
+## 〔 08 〕 Social Relevance
 
 > MEDI AI isn't just a project — it's a response to a real crisis.
 
@@ -211,7 +192,7 @@ Real cases that inspired this project show the danger of unqualified medical adv
 
 ---
 
-## 〔 10 〕 Team
+## 〔 09 〕 Team
 
 <div align="center">
 
@@ -227,7 +208,7 @@ Real cases that inspired this project show the danger of unqualified medical adv
 
 ---
 
-## 〔 11 〕 Contributing
+## 〔 10 〕 Contributing
 
 ```bash
 # Fork → Clone → Branch → Commit → Push → Pull Request
@@ -246,7 +227,7 @@ git push origin feature/your-feature
 
 ---
 
-## 〔 12 〕 License
+## 〔 11 〕 License
 
 ```
 MIT License — Copyright (c) 2025 Somnath P (SOMU3103)
